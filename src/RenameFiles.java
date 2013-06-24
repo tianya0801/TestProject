@@ -47,7 +47,7 @@ public class RenameFiles {
 	 */
 	public static void main(String[] args) {
 		try {
-			rename("E:\\с╟йс",2,"]", ".td");
+			rename("J:\\others",2,"]", ".td");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
